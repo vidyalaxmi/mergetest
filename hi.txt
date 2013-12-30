@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi world wr
+=======
+Hi world
+>>>>>>> origin/master
